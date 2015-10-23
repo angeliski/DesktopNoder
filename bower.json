@@ -1,0 +1,12 @@
+{
+  "name": "DesktopNoder",
+  "version": "0.0.1",
+  "description": "DesktopNoder",
+  "main": "app.js",
+  "author": {
+    "name": "angeliski",
+    "email": ""
+  },
+  "dependencies": {
+  }
+}
